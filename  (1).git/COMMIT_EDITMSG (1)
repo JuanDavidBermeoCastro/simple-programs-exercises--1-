@@ -1,0 +1,16 @@
+
+# Por favor ingresa el mensaje del commit para tus cambios. Las
+#  líneas que comiencen con '#' serán ignoradas, y un mensaje
+#  vacío aborta el commit.
+#
+# En la rama main
+# Cambios a ser confirmados:
+#	nuevos archivos: conversion de unidades de longitud.py
+#	nuevos archivos: numero invertido.py
+#	nuevos archivos: promedio.py
+#	nuevos archivos: radio.py
+#	modificados:     saludo.py
+#
+# Cambios no rastreados para el commit:
+#	modificados:     numero invertido.py
+#
